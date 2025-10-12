@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+body{
+    background-color: #0c000c;
+    color: #ffffff;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 15px;
+}
+#howdy{
+    color: #ffffff;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 15px;
+}
+::selection {
+    background: #000000;
+    color: #d873fa;
+}
